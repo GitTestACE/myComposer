@@ -1,0 +1,12 @@
+{
+    "name": "shanks/composertest",
+    "description": "test",
+    "type": "project",
+    "authors": [
+        {
+            "name": "xiaomingliang",
+            "email": "xml901215@163.com"
+        }
+    ],
+    "require": {}
+}
